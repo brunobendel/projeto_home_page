@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto cartao_visita" src="preview.jpg" width="100%">
+  <img alt="projeto cartao_visita" src="preview.JPG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
